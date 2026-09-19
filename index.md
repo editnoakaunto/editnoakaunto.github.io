@@ -3,3 +3,4 @@
 ---
 [9月9日:学校と人々について](https://editnoakaunto.github.io/9.9)  
 [9月13日:若者は精神病院にはいるな](https://editnoakaunto.github.io/9.13)
+[9月19日:友達?]()
